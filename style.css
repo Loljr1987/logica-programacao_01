@@ -15,9 +15,9 @@ body {
 
 
 body::before {
-    background-image: url("img/code.png");
+    background-image: url("img/dark_side_ofTheMoon.png");
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: center;
     content: "";
     display: block;
     position: absolute;
@@ -64,11 +64,11 @@ body::before {
 }
 
 .container__texto {
-    margin: 16px 0 16px 0;
+    margin: 20px 0 16px 0;
 }
 
 .container__texto-azul {
-    color: #1875E8;
+    color: #1f62b4;
 }
 
 h1 {
